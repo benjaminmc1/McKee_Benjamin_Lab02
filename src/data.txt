@@ -1,0 +1,32 @@
+Week 1
+
+Firstname   Lastname    Title           YOB     Regular Pay Hours   Weekly Pay
+======================================================================
+John        Doe         Mr.             1980    40.0                820.0
+Jane        Doe         Mrs.            1985    40.0                1000.0
+Joe         Doe         Dr.             1990    40.0                1200.0
+Jill        Doe         Prof.           1995    40.0                961.54
+Jack        Doe         Assoc. Prof.    2000    40.0
+Jolene      Doe         Assoc. Prof.    2005    40.0
+
+Week 2
+
+Firstname   Lastname    Title           YOB     Regular Pay Hours   Weekly Pay
+======================================================================
+John        Doe         Mr.             1980    50.0
+Jane        Doe         Mrs.            1985    50.0
+Joe         Doe         Dr.             1990    50.0
+Jill        Doe         Prof.           1995    40.0
+Jack        Doe         Assoc. Prof.    2000    40.0
+Jolene      Doe         Assoc. Prof.    2005    40.0
+
+Week 3
+
+Firstname   Lastname    Title           YOB     Regular Pay Hours   Weekly Pay
+======================================================================
+John        Doe         Mr.             1980    40.0                
+Jane        Doe         Mrs.            1985    40.0
+Joe         Doe         Dr.             1990    40.0
+Jill        Doe         Prof.           1995    40.0
+Jack        Doe         Assoc. Prof.    2000    40.0
+Jolene      Doe         Assoc. Prof.    2005    40.0
